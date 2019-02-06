@@ -2,7 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
 	<h1>{{ msg }} ---{{secondName}}</h1>
-    <h2>Essential Links</h2>
+	<h2>{{secondName}}</h2>
   </div>
 </template>
 
